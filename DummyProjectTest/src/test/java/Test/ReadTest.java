@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class ReadTest {
 	
 	@Test
-    public void ReadTest()
+    public void executeReadTest()
     {
     	System.out.println("Read Test executed successfully");
     }
